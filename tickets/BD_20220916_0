@@ -1,0 +1,11 @@
+PNR_number: BD_20220916_0
+Train_number: 1001
+Train_name: Shatabdi Express
+Source: Banglore
+Destination : Delhi
+Travel_date : 2022-09-16
+
+Passengers:
+passenger_name			passenger_age			passenger_gender			Fare
+arya						45						female					2500.0
+Total Price: 2500.0

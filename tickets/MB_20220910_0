@@ -1,0 +1,11 @@
+PNR_number: MB_20220910_0
+Train_number: 1004
+Train_name: Udayan Express
+Source: Mumbai
+Destination : Banglore
+Travel_date : 2022-09-10
+
+Passengers:
+passenger_name			passenger_age			passenger_gender			Fare
+mhi						67						male					900.0
+Total Price: 900.0

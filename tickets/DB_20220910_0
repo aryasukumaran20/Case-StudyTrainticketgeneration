@@ -1,0 +1,11 @@
+PNR_number: DB_20220910_0
+Train_number: 1002
+Train_name: Shatabdi Express
+Source: Delhi
+Destination : Banglore
+Travel_date : 2022-09-10
+
+Passengers:
+passenger_name			passenger_age			passenger_gender			Fare
+AMI						8						FEMALE					1250.0
+Total Price: 1250.0

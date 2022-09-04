@@ -1,0 +1,14 @@
+PNR				:	DB_2022-9-18_100
+TrainNo			:	1002
+Train Name		:	Shatabdi Express
+From			:	Delhi
+To				:	Banglore
+Travel Date		:	18/9/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+YADHU		32		MALE		2500.0
+
+Total Price: 2500.0

@@ -1,0 +1,14 @@
+PNR				:	BM_2022-9-18_101
+TrainNo			:	1003
+Train Name		:	Udayan Express
+From			:	Banglore
+To				:	Mumbai
+Travel Date		:	18/9/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+YADHU		23		MALE		1500.0
+
+Total Price: 1500.0

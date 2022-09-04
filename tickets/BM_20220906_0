@@ -1,0 +1,11 @@
+PNR_number: BM_20220906_0
+Train_number: 1003
+Train_name: Udayan Express
+Source: Banglore
+Destination : Mumbai
+Travel_date : 2022-09-06
+
+Passengers:
+passenger_name			passenger_age			passenger_gender			Fare
+AYUS						56						FEMALE					1500.0
+Total Price: 1500.0
